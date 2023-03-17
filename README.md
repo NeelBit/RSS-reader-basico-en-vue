@@ -1,5 +1,7 @@
 # rss-reader
 
+Video del que tomo el ejercicio: https://www.youtube.com/watch?v=aJShMgOmAjE
+
 ![](https://github.com/NeelBit/RSS-reader-basico-en-vue/blob/master/cap.jpg)
 
 This template should help get you started developing with Vue 3 in Vite.
